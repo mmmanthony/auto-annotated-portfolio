@@ -15,13 +15,13 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
         url: /images/logo for website-01.png
         altText: altText of the image
         caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
-        altText: Image three
-        caption: Image three caption
         elementId: ''
     colors: colors-c
     spacing: 16
