@@ -41,41 +41,7 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: TINNITUS TAPES COMING SOON FUCK YOU JEFF I JUST HAD PIZZA.
-    subtitle: >-
-      We also had a great heirloom tomato moz sandwich and an eggplant parm
-      sandwich.
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
-  - colors: colors-f
+  - colors: colors-a
     type: FeaturedProjectsSection
     elementId: ''
     actions:
@@ -114,7 +80,7 @@ sections:
         justifyContent: flex-end
     subtitle: Releases
   - type: ContactSection
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
     title: "Got an interesting project? Tell me more...\U0001F4AC"
     form:
