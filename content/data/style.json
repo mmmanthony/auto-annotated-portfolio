@@ -10,7 +10,7 @@
     "onSecondary": "#ffffff",
     "complementary": "#f1f014",
     "onComplementary": "#ffffff",
-    "fontBody": "fontSecondary",
+    "fontBody": "fontPrimary",
     "h1": {
         "size": "6xl",
         "weight": "medium",
