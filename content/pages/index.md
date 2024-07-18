@@ -15,9 +15,8 @@ sections:
     backgroundSize: full
     title: TINNITUS TAPES COMING SOON FUCK YOU JEFF I JUST HAD PIZZA.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      We also had a great heirloom tomato moz sandwich and an eggplant parm
+      sandwich.
     styles:
       self:
         height: auto
