@@ -11,8 +11,8 @@ backgroundImage:
   opacity: 75
 sections:
   - type: MediaGallerySection
-    title: Gallery
-    subtitle: This is the subtitle
+    title: TINNITUS TAPES
+    subtitle: WEB STORE CUMMING SOON
     images:
       - type: ImageBlock
         url: /images/logo for website-01.png
@@ -21,7 +21,7 @@ sections:
         elementId: ''
     colors: colors-c
     spacing: 16
-    columns: 2
+    columns: 1
     aspectRatio: '1:1'
     showCaption: false
     enableHover: false
