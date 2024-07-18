@@ -41,7 +41,7 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - colors: colors-f
+  - colors: colors-a
     type: FeaturedProjectsSection
     elementId: ''
     actions:
