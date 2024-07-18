@@ -10,40 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - type: MediaGallerySection
-    title: Gallery
-    subtitle: This is the subtitle
-    images:
-      - type: ImageBlock
-        url: /images/logo for website-01.png
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
-        altText: Image three
-        caption: Image three caption
-        elementId: ''
-    colors: colors-c
-    spacing: 16
-    columns: 1
-    aspectRatio: '1:1'
-    showCaption: false
-    enableHover: false
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - elementId: ''
     colors: colors-f
     backgroundSize: full
