@@ -19,7 +19,7 @@ sections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Artboard 1.png
+        url: /images/logo for website-01.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
