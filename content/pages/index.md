@@ -22,7 +22,7 @@ sections:
     colors: colors-c
     spacing: 16
     columns: 1
-    aspectRatio: '16:9'
+    aspectRatio: '1:1'
     showCaption: false
     enableHover: false
     elementId: ''
