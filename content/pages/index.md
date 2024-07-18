@@ -15,7 +15,6 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-3.jpg
         altText: Image three
         caption: Image three caption
         elementId: ''
