@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: MediaGallerySection
     title: TINNITUS TAPES
-    subtitle: This is the subtitle
+    subtitle: WEB STORE CUMMING SOON
     images:
       - type: ImageBlock
         url: /images/logo for website-01.png
