@@ -16,16 +16,12 @@ sections:
     images:
       - type: ImageBlock
         url: /images/logo for website-01.png
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
-        altText: Image three
-        caption: Image three caption
+        altText: Image one
+        caption: Image one caption
         elementId: ''
     colors: colors-c
     spacing: 16
-    columns: 1
+    columns: 2
     aspectRatio: '1:1'
     showCaption: false
     enableHover: false
